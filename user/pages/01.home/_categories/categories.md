@@ -1,15 +1,15 @@
 ---
 categories:
-    - image: page1_img1.jpg
+    - image: adult-art-biker-2042281.jpg
       class: box1
-      title: Women
+      title: History
       title_position: bottom 
-    - image: page1_img2.jpg
+    - image: asphalt-biker-biking-1796102.jpg
       class: box2
-      title: Men
+      title: Media
       title_position: top
-    - image: page1_img3.jpg
+    - image: cafe-racer-frame-garage-1599.jpg
       class: box3
-      title: Children
+      title: Contact
       title_position: bottom      
 ---
