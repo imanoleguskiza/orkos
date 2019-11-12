@@ -1,12 +1,5 @@
-title: Photographer
-author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
-metadata:
-    description: 'Bootstrap 3.0 template by Template-help.com, ported to Grav.'
-    
 # Site settings
-title: Awesome Title
+title: Orkos MC
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -19,31 +12,8 @@ social:
   -  url: "#"
      icon: twitter.png
   -  url: "#"
-     icon: rss.png    
+     icon: rss.png
 
-copyright: 
-  line1: Untitled
-  line2: Design:
-  url: http://html5up.net
-  url_label: HTML5 UP
-    
 logo:
   text1: "Photographer"
   text2: "by HTML5 UP"
-
-# Main Menu
-menu:
-  - text: "submenu"
-    submenu:
-      - text: "info"
-        link: "#"
-      - text: "profile"
-        link: "#"  
-      - text: "news"
-        link: "#"
-        submenu:
-          - text: "fresh"
-            link: "#"
-          - text: "archive"
-            link: "#"  
-    link: "#" 
